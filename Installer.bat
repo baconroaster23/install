@@ -7,7 +7,7 @@ set "OWNER=baconroaster23"
 set "REPO=BatchManager"
 set "BRANCH=main"
 
-set "INSTALL=C:\Users\BaconRoaster\BatchManager"
+set "INSTALL=C:\Users\%USERNAME%\BatchManager"
 set "ZIP=%TEMP%\BatchManager.zip"
 set "TEMP=%TEMP%\BatchManager_Update"
 
