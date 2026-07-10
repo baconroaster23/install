@@ -52,6 +52,6 @@ rmdir /s /q "%TEMP%" >nul 2>&1
 echo [5/5] Starting BatchManager...
 timeout /t 2 >nul
 
-start "" "%INSTALL%\BatchManager.bat"
+start "" "%INSTALL%\BatchManager\BatchManager.bat"
 
 exit
